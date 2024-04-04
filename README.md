@@ -129,7 +129,8 @@ WSS = \sum_{i=1}^K \sum_{x \in k_{i}}  distance(x,Centroid_{i})
     indicator of the appropriate number of clusters.
 
 
-FIGURE 1 : AN EXAMPLE OF THE ELBOW METHOD
+## FIGURE 1 : AN EXAMPLE OF THE ELBOW METHOD
+![](https://github.com/Raiyan-S/Customer-Segmentation-Using-K-Means-Clustering/blob/main/Elbow%20method.png)
 
 #### The Silhouette Score
 The Silhouette Score is a metric for evaluating how well each data point fits
@@ -155,6 +156,7 @@ indicate the misassignment of data points to inappropriate clusters, reflecting
 suboptimal clustering outcomes.
 
 ## Supervised Learning vs. Unsupervised Learning
+![](https://github.com/Raiyan-S/Customer-Segmentation-Using-K-Means-Clustering/blob/main/Supervised%20and%20Unsupervised.png)
 
 ## Customer segmentation in Artificial Intelligence
 Customer segmentation is the process of dividing a customer base into groups of
@@ -164,7 +166,7 @@ products, or services that are most likely to resonate with them. The following 
 illustrates an example of how customer segmentation works.
 
 ## FIGURE 2 : SEGMENTIZING CUSTOMERS IN A TARGET MARKET BASED ON CERTAIN FEATURES
-
+![](https://github.com/Raiyan-S/Customer-Segmentation-Using-K-Means-Clustering/blob/main/Segmentizing%20customers.png)
 
 After looking at this figure, we can realize that the customer segmentation problem is basically
 a clustering problem. Hence, we can conclude that there is a relationship between it and
@@ -195,7 +197,7 @@ curse of dimensionality without losing valuable features. What it does is simply
 * Reduction of dimensionality.
 
 ## FIGURE 3: CLASSIFIER PERFORMANCE BASED ON THE NUMBER OF FEATURES
-
+![](https://github.com/Raiyan-S/Customer-Segmentation-Using-K-Means-Clustering/blob/main/Curse%20of%20Dimensionality.png)
 
 ## FIGURE 4: APPLYING PCA ON A 3D DATA
-
+![](https://github.com/Raiyan-S/Customer-Segmentation-Using-K-Means-Clustering/blob/main/PCA.png)
