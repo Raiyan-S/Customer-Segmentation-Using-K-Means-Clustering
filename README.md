@@ -181,6 +181,9 @@ algorithms on it to segmentize it. However, this dataset is huge! When we have t
 that some of them are irrelevant to our problem, a well-known problem in the field of data
 called “The Curse of Dimensionality”.
 
+## FIGURE 3: CLASSIFIER PERFORMANCE BASED ON THE NUMBER OF FEATURES
+![](https://github.com/Raiyan-S/Customer-Segmentation-Using-K-Means-Clustering/blob/main/Curse%20of%20Dimensionality.png)
+
 ### The Curse of Dimensionality
 In the context of data analysis and machine learning, dimensions refer to the features or
 attributes of data. The Curse of Dimensionality encompasses a range of difficulties and
@@ -195,9 +198,6 @@ The Principal Component Analysis method (PCA) is a method that helps you avoid t
 curse of dimensionality without losing valuable features. What it does is simply:
 * Decorrelation of features.
 * Reduction of dimensionality.
-
-## FIGURE 3: CLASSIFIER PERFORMANCE BASED ON THE NUMBER OF FEATURES
-![](https://github.com/Raiyan-S/Customer-Segmentation-Using-K-Means-Clustering/blob/main/Curse%20of%20Dimensionality.png)
 
 ## FIGURE 4: APPLYING PCA ON A 3D DATA
 ![](https://github.com/Raiyan-S/Customer-Segmentation-Using-K-Means-Clustering/blob/main/PCA.png)
